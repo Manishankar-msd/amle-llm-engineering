@@ -1,0 +1,15 @@
+email_id,text,category
+1,"Hello, my display shows E-07 every time I ride up the hill to my office. After a break it works again. Is something broken?",repair
+2,You charged me 49 euros twice this month. I can see both payments on my bank statement from the 1st and the 6th. Please send one back.,billing
+3,Someone cut my lock last night in front of the train station and the bike is gone. What do I do now?,theft
+4,I'm moving from Hamburg to Munich in March. Can I take my Fold with me or do I have to start a new subscription?,contract
+5,The technician was supposed to come between 10 and 12 today with my new bike but nobody showed up and no one called. I took the morning off for this.,delivery
+6,Do you have bikes for tall people? I'm 1.98 m.,other
+7,Winter is coming and I won't ride until April. Can I stop paying until then without losing my bike?,contract
+8,"My son's child seat was stolen from the bike, the bike itself is still there. Is that covered?",theft
+9,The rear brake squeaks really loudly and doesn't stop the bike as well as it used to.,repair
+10,My bank card expired and I got an email that the payment failed. How can I pay now? I don't want the motor to be locked.,billing
+11,"Hi, I'd like to end my subscription. I've bought my own bike. When do I have to give yours back?",contract
+12,Why did you charge me 25 euros? I just wasn't home when your driver came on Tuesday.,billing
+13,"I crashed into a pole and the front wheel is bent, I can't ride it anymore. I'm fine, just the bike.",repair
+14,Can I bring the folding bike on the ICE to Berlin?,other
